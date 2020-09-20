@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pavel/CLionProjects/Contest/up11-4/main.c
+stdio.h
+-
+unistd.h
+-
+bits/types/sig_atomic_t.h
+-
+bits/types/sigset_t.h
+-
+signal.h
+-
+wait.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/mz06.dir/main.c.o  -o mz06 

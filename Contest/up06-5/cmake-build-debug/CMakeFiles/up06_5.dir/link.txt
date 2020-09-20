@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/up06_5.dir/main.c.o  -o up06_5 

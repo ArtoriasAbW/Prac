@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/kr3_2015.dir/main.c.o  -o kr3_2015 

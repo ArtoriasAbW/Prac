@@ -1,0 +1,7 @@
+1.txt
+2.txt
+a.out
+cmake-build-debug
+CMakeLists.txt
+main.c
+      0       0       0

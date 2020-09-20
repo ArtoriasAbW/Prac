@@ -1,0 +1,3 @@
+/home/pavel/CLionProjects/Contest/mz06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pavel/CLionProjects/Contest/mz06/cmake-build-debug/CMakeFiles/mz06.dir
+/home/pavel/CLionProjects/Contest/mz06/cmake-build-debug/CMakeFiles/edit_cache.dir

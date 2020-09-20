@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/up04_5.dir/main.c.o  -o up04_5 

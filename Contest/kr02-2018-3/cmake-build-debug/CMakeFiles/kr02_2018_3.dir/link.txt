@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/kr02_2018_3.dir/main.c.o  -o kr02_2018_3 

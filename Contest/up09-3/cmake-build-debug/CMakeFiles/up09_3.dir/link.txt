@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/up09_3.dir/main.c.o  -o up09_3 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/up08_4.dir/main.c.o  -o up08_4 

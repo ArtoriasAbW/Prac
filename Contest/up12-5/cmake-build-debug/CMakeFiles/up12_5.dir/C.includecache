@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pavel/CLionProjects/Contest/up12-5/main.c
+stdio.h
+-
+sys/types.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+sys/wait.h
+-
+unistd.h
+-
+string.h
+-
+

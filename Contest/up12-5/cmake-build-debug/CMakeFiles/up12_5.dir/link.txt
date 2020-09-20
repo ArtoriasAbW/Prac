@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/up12_5.dir/main.c.o  -o up12_5 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/mz10_2.dir/main.c.o  -o mz10_2 
